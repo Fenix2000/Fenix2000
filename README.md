@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fenix2000
-- 👀 I’m interested in interesting projects
+- 👀 I’m interested projects
 - 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate for experience
 - 📫 How to reach me 
